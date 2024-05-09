@@ -1,0 +1,10 @@
+---
+title: "Latex Template for Beamer Presentation"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a VUMC-design-approved Latex template that is generally prudent and more professional-looking for [Biostatistics Department](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) members to use when presenting to other departments, senior leadership, and/or external audiences.
